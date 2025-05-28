@@ -1,5 +1,39 @@
 # 💫 About Me:
-sou estudante de desenvolvimento de sistema, em python, trabalho com arduino tenho 16 anos, gosto de desafios, e projetos legais, e desafiadores <br><br>
+Olá! Meu nome é Gabriel e tenho 16 anos. Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e eletrônica embarcada. Atualmente, estou focado em desenvolver habilidades com Python e projetos utilizando Arduino.
+
+Gosto de me envolver com projetos desafiadores, criativos e que me façam sair da zona de conforto. Acredito que a melhor forma de aprender é colocando a mão na massa, testando ideias e explorando novas possibilidades.
+
+💡 O que eu faço:
+Desenvolvimento em Python para automações, scripts e protótipos de software
+
+Criação de projetos com Arduino, sensores e automação
+
+Estudo constante de lógica de programação, estruturas de dados e boas práticas de codificação
+
+Aprendizado contínuo em desenvolvimento web, versionamento com Git e integração com hardware
+
+🚀 Projetos que gosto de desenvolver:
+Sistemas inteligentes com Arduino e sensores
+
+Scripts úteis para o dia a dia
+
+Projetos que integram hardware e software
+
+Protótipos para resolver problemas reais
+
+🛠️ Tecnologias que uso:
+Python (scripts, automação, lógica)
+
+Arduino (C/C++, sensores, automação residencial)
+
+Git & GitHub (controle de versão)
+
+HTML, CSS e JavaScript (básico – em aprendizado)
+
+📈 Em busca de evolução
+Estou sempre buscando aprender mais, contribuir com a comunidade e me envolver em projetos inovadores. Se você tiver ideias interessantes, quiser colaborar ou apenas trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato!
+
+ <br><br>
 
 
 ## 🌐 Socials:
