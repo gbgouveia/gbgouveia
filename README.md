@@ -48,23 +48,19 @@ Estou sempre buscando aprender mais, contribuir com a comunidade e me envolver e
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" style="margin-right: 10px;" />
   
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" style="margin-right: 10px;" />
-  
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin-right: 10px;" />
-  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" style="margin-right: 10px;" />
   
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin-right: 10px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+  
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   
   <!-- Adobe Photoshop -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" style="margin-right: 10px;" />
   
-  <!-- Adobe Lightroom -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" title="Adobe Lightroom" alt="Adobe Lightroom" width="40" style="margin-right: 10px;" />
+
 </p>
 
 
