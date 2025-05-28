@@ -39,25 +39,18 @@ Estou sempre buscando aprender mais, contribuir com a comunidade e me envolver e
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gb.gouveia_ps) 
 
-## 🚀 Tecnologias que uso:
+<h2>🚀 Tecnologias que uso:</h2>
 
-<!-- Linguagens -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-
-<!-- Adobe -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" width="40"/>
-
-<!-- Controle de versão -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-
-![](https://github-readme-stats.vercel.app/api?username=gbgouveia&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gbgouveia&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gbgouveia&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="50" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" />
+  <img src="https://techstack-generator.vercel.app/photoshop-icon.svg" alt="Adobe Photoshop" width="50" />
+  <img src="https://techstack-generator.vercel.app/lightroom-icon.svg" alt="Adobe Lightroom" width="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gbgouveia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
