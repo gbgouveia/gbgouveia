@@ -42,15 +42,31 @@ Estou sempre buscando aprender mais, contribuir com a comunidade e me envolver e
 <h2>🚀 Tecnologias que uso:</h2>
 
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="50" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" />
-  <img src="https://techstack-generator.vercel.app/photoshop-icon.svg" alt="Adobe Photoshop" width="50" />
-  <img src="https://techstack-generator.vercel.app/lightroom-icon.svg" alt="Adobe Lightroom" width="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" />
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" style="margin-right: 10px;" />
+  
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" style="margin-right: 10px;" />
+  
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" style="margin-right: 10px;" />
+  
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="margin-right: 10px;" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" style="margin-right: 10px;" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" style="margin-right: 10px;" />
+  
+  <!-- Adobe Photoshop -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" style="margin-right: 10px;" />
+  
+  <!-- Adobe Lightroom -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" title="Adobe Lightroom" alt="Adobe Lightroom" width="40" style="margin-right: 10px;" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gbgouveia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
